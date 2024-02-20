@@ -34,7 +34,10 @@ class _Log_in extends State<Log_in> {
             ),
             Container(
               decoration:const BoxDecoration(
-                boxShadow: [
+                boxShadow: [    
+
+
+                  
                   BoxShadow(
                     color: Colors.white,
                     spreadRadius: 0,
